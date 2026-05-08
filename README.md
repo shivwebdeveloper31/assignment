@@ -244,3 +244,17 @@ img_link, product_link
 | Database | PostgreSQL 14+ |
 | State | Redux Toolkit (RTK Query pattern via createAsyncThunk) |
 | Routing | React Router v6 |
+
+
+
+
+
+<img width="1352" height="596" alt="s_1" src="https://github.com/user-attachments/assets/c9324203-9137-44fe-ad4f-178888c9a436" />
+
+<img width="1346" height="594" alt="s-2" src="https://github.com/user-attachments/assets/5c084b7e-39fa-4a39-b728-d1c151b12a34" />
+
+<img width="1350" height="595" alt="Screenshot 2026-05-08 235029" src="https://github.com/user-attachments/assets/4d131b4f-ecc0-4281-bfff-d7c30026ffbd" />
+
+
+
+
