@@ -218,7 +218,7 @@ The app will open at `http://localhost:3000`.
 
 1. Create a new project on Vercel, point to `frontend/`
 2. Set `REACT_APP_API_URL` to your Render backend URL
-3. Deploy
+3. Deploy - https://assignment-lovat-two-29.vercel.app/
 
 ---
 
